@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3771452047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ea821d46966822125658280a5c75a65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/AnimationTexture/Member_Instancing.bytes
+Dependencies: []
